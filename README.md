@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** @ KCC Institute of Technology, New Delhi
+- 🎓 Pursuing **B.Tech in Computer Science** @ Dr. A.P.J. Abdul Kalam Technical University , New Delhi
 - 💻 Building **Full Stack projects** with the **MERN Stack** (MongoDB · Express · React · Node.js)
 - 📊 Solving **DSA problems daily** on LeetCode — Arrays → Strings → Linked Lists → Trees
 - 🎯 Goal: Land an **SDE Internship by Summer 2027**
@@ -48,7 +48,7 @@
 | Project | Tech Stack | Status |
 |---------|-----------|--------|
 | 🌐 Portfolio Website | HTML · CSS · JavaScript | 🔨 In Progress |
-| 🧩 LeetCode Daily Solutions | JavaScript · C++ | 📝 Ongoing — Day 1 |
+| 🧩 LeetCode Daily Solutions | JavaScript · C++ |
 
 ---
 
